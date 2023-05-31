@@ -24,6 +24,7 @@ guides.
 
 #### Languages
 
+- Go
 - Python
 
 #### Further reading
